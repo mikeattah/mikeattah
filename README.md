@@ -1,6 +1,10 @@
 # Mike Attah
+
 *Tech Newbie, Daily Growth Enthusiast, Google Search Aficionado*
 
+*[LinkedIn](https://www.linkedin.com/in/mikeattah/), [Twitter](https://twitter.com/mikeattah_), [CodeSandBox](https://codesandbox.io/u/mikeattah)*
+
+---
 - 👋 Hi, I’m @mikeattah
 - 👀 I’m interested in Frontend Development (React Stack)
 - 🌱 I’m currently learning React Native
