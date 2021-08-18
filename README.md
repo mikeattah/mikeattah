@@ -13,10 +13,11 @@
 
 ### TECH STACK:
 
-GIT | HTML | CSS | SASS | BOOTSTRAP
-----|------|-----|------|----------
-JAVASCRIPT | JQUERY | REACT | REDUX | JEST
-R-T-L | CYPRESS | NEXT | GRAPHQL | GATSBY
+0 | A | B | C | D | E
+--|---|---|---|---|---------
+1 | GIT | HTML | CSS | SASS | BOOTSTRAP
+2 | JAVASCRIPT | JQUERY | REACT | REDUX | JEST
+3 | R-T-L | CYPRESS | NEXT | GRAPHQL | GATSBY
 
 <!---
 mikeattah/mikeattah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
