@@ -12,7 +12,7 @@
 - 📫 How to reach me: email: mailenemona@gmail.com, mobile: +2347013194373, skype: live:attahmona
 
 ### Fund Raising:
-I'm raising $1,500.00 to replace my terribly slow laptop on [Air Funding](https://www.airfunding.net/project/459749?hl=en&utm_source=copied_url&utm_medium=social&utm_campaign=project_first_shares&utm_content=project_id_459749)
+I'm raising $1,500.00 to replace my terribly slow laptop on [Air Funding](https://www.airfunding.net/project/459749?hl=en&utm_source=copied_url&utm_medium=social&utm_campaign=project_first_shares&utm_content=project_id_459749). Thank you for your help with funds and/or sharing.
 
 ### TECH STACK:
 
