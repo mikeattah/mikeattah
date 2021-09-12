@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/website-mikeattah-1da1f2.svg?&style=plastic&logo=website)](https://mikeattah.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-mikeattah-1da1f2.svg?&style=plastic&logo=linkedin)](https://www.linkedin.com/in/mikeattah/)
-[![Twitter](https://img.shields.io/badge/twitter-mikeattah_-1da1f2.svg?&style=plastic&logo=twitter)](https://twitter.com/mikeattah_)
+[![Twitter](https://img.shields.io/badge/twitter-miikeattah-1da1f2.svg?&style=plastic&logo=twitter)](https://twitter.com/miikeattah)
 [![CodeSandBox](https://img.shields.io/badge/codesandbox-mikeattah-1da1f2.svg?&style=plastic&logo=codesandbox)](https://codesandbox.io/u/mikeattah)
 [![Codepen](https://img.shields.io/badge/codepen-mikeattah-1da1f2.svg?&style=plastic&logo=codepen)](https://codepen.io/u/mikeattah)
 [![Codewars](https://img.shields.io/badge/codewars-mikeattah-1da1f2.svg?&style=plastic&logo=codewars)](https://www.codewars.com/users/mikeattah)
