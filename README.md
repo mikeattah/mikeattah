@@ -14,7 +14,7 @@
 ---
 - 👋 Hi, I’m @mikeattah
 - 👀 I’m interested in Frontend Development (React Stack)
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native and TypeScript
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: email: mailenemona@gmail.com, mobile: +2347013194373, skype: live:attahmona
 
