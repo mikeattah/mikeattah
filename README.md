@@ -8,8 +8,8 @@
 [![CodeSandBox](https://img.shields.io/badge/codesandbox-mikeattah-1da1f2.svg?&style=plastic&logo=codesandbox)](https://codesandbox.io/u/mikeattah)
 [![Codepen](https://img.shields.io/badge/codepen-mikeattah-1da1f2.svg?&style=plastic&logo=codepen)](https://codepen.io/u/mikeattah)
 [![Codewars](https://img.shields.io/badge/codewars-mikeattah-1da1f2.svg?&style=plastic&logo=codewars)](https://www.codewars.com/users/mikeattah)
-[![HackerRank](https://img.shields.io/badge/hackerrank-mikeattah-1da1f2.svg?&style=plastic&logo=hackerrank)](https://www.hackerrank.com/mikeattah)
-[![Leetcode](https://img.shields.io/badge/leetcode-mikeattah-1da1f2.svg?&style=plastic&logo=leetcode)](https://leetcode.com/mikeattah/)
+<!-- [![HackerRank](https://img.shields.io/badge/hackerrank-mikeattah-1da1f2.svg?&style=plastic&logo=hackerrank)](https://www.hackerrank.com/mikeattah)
+[![Leetcode](https://img.shields.io/badge/leetcode-mikeattah-1da1f2.svg?&style=plastic&logo=leetcode)](https://leetcode.com/mikeattah/) -->
 
 ---
 - 👋 Hi, I’m @mikeattah
