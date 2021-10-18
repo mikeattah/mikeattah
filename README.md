@@ -23,7 +23,7 @@
 ![HTML](https://img.shields.io/badge/html5-1da1f2.svg?&style=plastic&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-1da1f2.svg?&style=plastic&logo=css3)
 ![SASS](https://img.shields.io/badge/sass-1da1f2.svg?&style=plastic&logo=sass)
-![BOOTSTRAP](https://img.shields.io/badge/bootstrap-1da1f2.svg?&style=plastic&logo=bootstrap)
+![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-1da1f2.svg?&style=plastic&logo=tailwindcss)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-1da1f2.svg?&style=plastic&logo=javascript)
 ![JQUERY](https://img.shields.io/badge/jquery-1da1f2.svg?&style=plastic&logo=jquery)
 ![REACT](https://img.shields.io/badge/react-1da1f2.svg?&style=plastic&logo=react)
