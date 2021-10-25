@@ -14,26 +14,27 @@
 ---
 - 👋 Hi, I’m @mikeattah
 - 👀 I’m interested in Frontend Development (React Stack)
-- 🌱 I’m currently learning React Native and TypeScript
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 🌱 I’m currently building portfolio projects with the tools I have learnt so far
+- 💞️ I’m looking to collaborate on Open Source Projects very soon!
 - 📫 How to reach me: email: mailenemona@gmail.com, mobile: +2347013194373, skype: live:attahmona
 
 ### STACK:
-![GIT](https://img.shields.io/badge/git-1da1f2.svg?&style=plastic&logo=git)
-![HTML](https://img.shields.io/badge/html5-1da1f2.svg?&style=plastic&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-1da1f2.svg?&style=plastic&logo=css3)
-![SASS](https://img.shields.io/badge/sass-1da1f2.svg?&style=plastic&logo=sass)
-![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-1da1f2.svg?&style=plastic&logo=tailwindcss)
-![JAVASCRIPT](https://img.shields.io/badge/javascript-1da1f2.svg?&style=plastic&logo=javascript)
-![JQUERY](https://img.shields.io/badge/jquery-1da1f2.svg?&style=plastic&logo=jquery)
-![REACT](https://img.shields.io/badge/react-1da1f2.svg?&style=plastic&logo=react)
-![REDUX](https://img.shields.io/badge/redux-1da1f2.svg?&style=plastic&logo=redux)
-![JEST](https://img.shields.io/badge/jest-1da1f2.svg?&style=plastic&logo=jest)
-![R-T-L](https://img.shields.io/badge/testinglibrary-1da1f2.svg?&style=plastic&logo=testinglibrary)
-![CYPRESS](https://img.shields.io/badge/cypress-1da1f2.svg?&style=plastic&logo=cypress)
-![NEXT](https://img.shields.io/badge/nextdotjs-1da1f2.svg?&style=plastic&logo=nextdotjs)
-![GRAPHQL](https://img.shields.io/badge/graphql-1da1f2.svg?&style=plastic&logo=graphql)
-![GATSBY](https://img.shields.io/badge/gatsby-1da1f2.svg?&style=plastic&logo=gatsby)
+![GIT](https://img.shields.io/badge/git-1da1f2.svg?&style=plastic&color=blueviolet&logo=git)
+![HTML](https://img.shields.io/badge/html5-1da1f2.svg?&style=plastic&color=blueviolet&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1da1f2.svg?&style=plastic&color=blueviolet&logo=css3)
+![SASS](https://img.shields.io/badge/sass-1da1f2.svg?&style=plastic&color=blueviolet&logo=sass)
+![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-1da1f2.svg?&style=plastic&color=blueviolet&logo=tailwindcss)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-1da1f2.svg?&style=plastic&color=blueviolet&logo=javascript)
+![TYPESCRIPT](https://img.shields.io/badge/typescript-1da1f2.svg?&style=plastic&color=blueviolet&logo=typescript)
+![JQUERY](https://img.shields.io/badge/jquery-1da1f2.svg?&style=plastic&color=blueviolet&logo=jquery)
+![REACT](https://img.shields.io/badge/react-1da1f2.svg?&style=plastic&color=blueviolet&logo=react)
+![REDUX](https://img.shields.io/badge/redux-1da1f2.svg?&style=plastic&color=blueviolet&logo=redux)
+![JEST](https://img.shields.io/badge/jest-1da1f2.svg?&style=plastic&color=blueviolet&logo=jest)
+![R-T-L](https://img.shields.io/badge/testinglibrary-1da1f2.svg?&style=plastic&color=blueviolet&logo=testinglibrary)
+![CYPRESS](https://img.shields.io/badge/cypress-1da1f2.svg?&style=plastic&color=blueviolet&logo=cypress)
+![NEXT](https://img.shields.io/badge/nextdotjs-1da1f2.svg?&style=plastic&color=blueviolet&logo=nextdotjs)
+![GRAPHQL](https://img.shields.io/badge/graphql-1da1f2.svg?&style=plastic&color=blueviolet&logo=graphql)
+![GATSBY](https://img.shields.io/badge/gatsby-1da1f2.svg?&style=plastic&color=blueviolet&logo=gatsby)
 
 <!---
 mikeattah/mikeattah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
