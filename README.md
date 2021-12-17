@@ -12,10 +12,9 @@
 [![Leetcode](https://img.shields.io/badge/leetcode-mikeattah-1da1f2.svg?&style=plastic&logo=leetcode)](https://leetcode.com/mikeattah/) -->
 
 ---
-- 👋 Hi, I’m @mikeattah
-- 👀 I’m interested in Frontend Development (React Stack)
-- 🌱 I’m currently building portfolio projects with the tools I have learnt so far
-- 💞️ I’m looking to collaborate on Open Source Projects very soon!
+- 👋 Hi, I’m @mikeattah, a Frontend Developer
+- 🌱 I’m currently building portfolio projects and searching for fulltime office/remote frontend developer jobs
+- 💞️ I’m also looking to collaborate on Open Source Projects!
 - 📫 How to reach me: email: mailenemona@gmail.com, mobile: +2347013194373, skype: live:attahmona
 
 ### STACK:
