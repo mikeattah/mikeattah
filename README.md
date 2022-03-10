@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200"/>
   <div id="socials">
     <a href="https://mikeattah.com/">
       <img src="https://img.shields.io/badge/Website-mikeattah-1da1f2.svg?&style=plastic&logo=website" alt="Website Badge"/>
@@ -17,16 +17,21 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="600" height="450"/>
 </div>
 
 ---
-## Welcome to Mike Attah's Code Hub!!
-- 👋 Hi, I’m @mikeattah, a Full Stack Developer
-- 🌱 I’m currently building portfolio projects and searching for fulltime office/remote full stack developer jobs
-- 💞️ I’m also looking to collaborate on Open Source Projects!
-- 📫 How to reach me: email: mailenemona@gmail.com, mobile: +2347013194373, skype: live:attahmona
+
+<div align="center">
+  <h2>Welcome to Mike Attah's Code Hub!!</h2>
+  <p>Hi, I’m @mikeattah, a Full Stack Developer</p>
+  <p>I’m currently building portfolio projects and searching for fulltime office/remote full stack developer jobs</p>
+  <p>I’m also looking to collaborate on Open Source Projects!</p>
+  <p>How to reach me: email: mailenemona@gmail.com, mobile: +2347013194373, skype: live:attahmona</p>
+</div>
+
 ---
+
 <div align="center">
   <h2>Languages and Tools</h2>
   <img src="https://img.shields.io/badge/Git-1da1f2.svg?&style=plastic&color=blue&logo=git" alt="Git Badge"/>
@@ -54,9 +59,13 @@
   <img src="https://img.shields.io/badge/Socket.IO-1da1f2.svg?&style=plastic&color=blue&logo=socketdotio" alt="Socket.IO Badge"/>
 </div>
 
+---
+
 <div align="center">
   <h2>My Stats</h2>
 </div>
+
+---
 
 <div align="center">
   <h2>Most Used Languages/Tools</h2>
