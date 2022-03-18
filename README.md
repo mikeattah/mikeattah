@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-1da1f2.svg?&style=plastic&color=blue&logo=bootstrap" alt="Bootstrap Badge"/>
   <img src="https://img.shields.io/badge/TailwindCSS-1da1f2.svg?&style=plastic&color=blue&logo=tailwindcss" alt="Tailwind CSS Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-1da1f2.svg?&style=plastic&color=blue&logo=javascript" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-1da1f2.svg?&style=plastic&color=blue&logo=typescript" alt="TypeScript Badge"/>
+<!--   <img src="https://img.shields.io/badge/TypeScript-1da1f2.svg?&style=plastic&color=blue&logo=typescript" alt="TypeScript Badge"/> -->
   <img src="https://img.shields.io/badge/React.js-1da1f2.svg?&style=plastic&color=blue&logo=react" alt="React.js Badge"/>
   <img src="https://img.shields.io/badge/Next.js-1da1f2.svg?&style=plastic&color=blue&logo=nextdotjs" alt="Next.js Badge"/>
   <img src="https://img.shields.io/badge/Gatsby.js-1da1f2.svg?&style=plastic&color=blue&logo=gatsby" alt="Gatsby.js Badge"/>
