@@ -27,7 +27,7 @@
   <p>Hi, I’m @mikeattah, a Full Stack Developer</p>
   <p>I’m currently building portfolio projects and searching for fulltime office/remote full stack developer jobs</p>
   <p>I’m also looking to collaborate on Open Source Projects!</p>
-  <p>How to reach me: email: mailenemona@gmail.com, mobile: +2347013194373, skype: live:attahmona</p>
+  <p>How to reach me: mailenemona@gmail.com, +2347013194373, live:attahmona</p>
 </div>
 
 ---
