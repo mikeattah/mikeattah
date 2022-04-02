@@ -1,30 +1,28 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200"/>
-  <div id="socials">
+  <div id="socials" marginTop="50px">
     <a href="https://mikeattah.com/">
       <img src="https://img.shields.io/badge/Website-mikeattah-1da1f2.svg?&style=plastic&logo=website" alt="Website Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/mikeattah/">
       <img src="https://img.shields.io/badge/LinkedIn-mikeattah-1da1f2.svg?&style=plastic&logo=linkedin" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/mikeattahx">
-      <img src="https://img.shields.io/badge/Twitter-mikeattahx-1da1f2.svg?&style=plastic&logo=twitter" alt="Twitter Badge"/>
+    <a href="https://twitter.com/mikeattahh">
+      <img src="https://img.shields.io/badge/Twitter-mikeattahh-1da1f2.svg?&style=plastic&logo=twitter" alt="Twitter Badge"/>
     </a>
   </div>
   <h1>
-    hello there
+    Hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="600" height="450"/>
-</div>
-
----
+</div> -->
 
 <div align="center">
   <h2>Welcome to Mike Attah's Code Hub!!</h2>
-  <p>Hi, I’m @mikeattah, a Full Stack Developer</p>
+  <p>Hi, I’m a Full Stack Developer</p>
   <p>I’m currently building portfolio projects and searching for fulltime office/remote full stack developer jobs</p>
   <p>I’m also looking to collaborate on Open Source Projects!</p>
   <p>How to reach me: mailenemona@gmail.com, +2347013194373, live:attahmona</p>
@@ -33,7 +31,7 @@
 ---
 
 <div align="center">
-  <h2>Languages and Tools</h2>
+  <h2>My Stack</h2>
   <img src="https://img.shields.io/badge/Git-1da1f2.svg?&style=plastic&color=blue&logo=git" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/HTML5-1da1f2.svg?&style=plastic&color=blue&logo=html5" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-1da1f2.svg?&style=plastic&color=blue&logo=css3" alt="CSS3 Badge"/>
@@ -62,15 +60,26 @@
 ---
 
 <div align="center">
-  <h2>My Stats</h2>
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mikeattah&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <h2>Most Used Languages/Tools</h2>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeattah&show_icons=true&theme=radical" />
+  </a>
 </div>
 
+---
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeattah&show_icons=true&theme=radical" />
+  </a>
+</div>
 
 <!---
 mikeattah/mikeattah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
