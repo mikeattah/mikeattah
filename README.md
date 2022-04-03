@@ -1,21 +1,24 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200"/>
-  <div id="socials" marginTop="50px">
-    <a href="https://mikeattah.com/">
-      <img src="https://img.shields.io/badge/Website-mikeattah-1da1f2.svg?&style=plastic&logo=website" alt="Website Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/mikeattah/">
-      <img src="https://img.shields.io/badge/LinkedIn-mikeattah-1da1f2.svg?&style=plastic&logo=linkedin" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/mikeattahh">
-      <img src="https://img.shields.io/badge/Twitter-mikeattahh-1da1f2.svg?&style=plastic&logo=twitter" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <h1>
-    Hello there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
+
+---
+
+<div id="socials" align="center">
+  <a href="https://mikeattah.com/">
+    <img src="https://img.shields.io/badge/Website-mikeattah-1da1f2.svg?&style=plastic&logo=website" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mikeattah/">
+    <img src="https://img.shields.io/badge/LinkedIn-mikeattah-1da1f2.svg?&style=plastic&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/mikeattahh">
+    <img src="https://img.shields.io/badge/Twitter-mikeattahh-1da1f2.svg?&style=plastic&logo=twitter" alt="Twitter Badge"/>
+  </a>
+</div>
+<h1 align="center">
+  Hello there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="600" height="450"/>
 </div> -->
@@ -25,7 +28,10 @@
   <p>Hi, I’m a Full Stack Developer</p>
   <p>I’m currently building portfolio projects and searching for fulltime office/remote full stack developer jobs</p>
   <p>I’m also looking to collaborate on Open Source Projects!</p>
-  <p>How to reach me: mailenemona@gmail.com, +2347013194373, live:attahmona</p>
+  <h3>How to reach me</h3>
+  <p>mailenemona@gmail.com</p>
+  <p>+2347013194373</p>
+  <p>live:attahmona</p>
 </div>
 
 ---
