@@ -25,10 +25,10 @@
 
 <div align="center">
   <h2>Welcome to Mike Attah's Code Hub!!</h2>
-  <p>Hi, I’m a Full Stack Developer</p>
-  <p>I’m currently building portfolio projects and searching for fulltime office/remote full stack developer jobs</p>
+  <p>Hi, I’m a Full-Stack Developer, who is actively learning and building web, mobile and desktop applications within the JavaScript ecosystem.</p>
+  <p>I’m currently available for fulltime office/remote front-end/full-stack developer jobs.</p>
   <p>I’m also looking to collaborate on Open Source Projects!</p>
-  <h3>How to reach me</h3>
+  <h3>How to reach me:</h3>
   <p>mailenemona@gmail.com</p>
   <p>+2347013194373</p>
   <p>live:attahmona</p>
