@@ -21,9 +21,9 @@
 </div> -->
 
 <div align="center">
-  <h2>Welcome to Mike Attah's Code Hub!!</h2>
-  <p>Hi, I’m a Front-End Developer, who is actively learning and building web, mobile and desktop applications on a daily basis</p>
-  <p>I’m currently available for fulltime office/remote front-end developer jobs.</p>
+  <h2>Welcome to My Code Hub!!</h2>
+  <p>Hi, I’m a Front-End Developer, who is actively learning and building web, mobile and desktop applications on a daily basis in order to sharpen skills and broaden my knowledge.</p>
+  <p>I’m currently available for fulltime office/remote front-end developer jobs any where in the world.</p>
   <p>I’m also looking to collaborate on Challenging Open Source Projects!</p>
   <h3>How to reach me:</h3>
   <p>mailenemona@gmail.com</p>
