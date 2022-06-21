@@ -6,13 +6,19 @@
 
 <div id="socials" align="center">
   <a href="https://mikeattah.com/">
-    <img src="https://img.shields.io/badge/Website-mikeattah-1da1f2.svg?&style=plastic&logo=website" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-mikeattah-1da1f2.svg?&style=plastic&logo=website&labelColor=white&color=1182c3&&logoColor=0A66C2" alt="Website Badge"/>
+  </a>
+  <a href="https://gitlab.com/mikeattah">
+    <img src="https://img.shields.io/badge/GitLab-mikeattah-1da1f2.svg?&style=plastic&logo=gitlab&labelColor=white&color=1182c3&&logoColor=FC6D26" alt="Website Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mikeattah/">
-    <img src="https://img.shields.io/badge/LinkedIn-mikeattah-1da1f2.svg?&style=plastic&logo=linkedin" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-mikeattah-1da1f2.svg?&style=plastic&logo=linkedin&labelColor=white&color=1182c3&&logoColor=0A66C2" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/mikeattahh">
-    <img src="https://img.shields.io/badge/Twitter-mikeattahh-1da1f2.svg?&style=plastic&logo=twitter" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-mikeattahh-1da1f2.svg?&style=plastic&logo=twitter&labelColor=white&color=1182c3&&logoColor=1DA1F2" alt="Twitter Badge"/>
+  </a>
+  <a href="https://freecodecamp.com/mikeattah">
+    <img src="https://img.shields.io/badge/freeCodeCamp-mikeattah-1da1f2.svg?&style=plastic&logo=freecodecamp&labelColor=white&color=1182c3&&logoColor=0A0A23" alt="freeCodeCamp Badge"/>
   </a>
 </div>
 
@@ -33,34 +39,34 @@
   <h2>My Stack</h2>
   
   <h3>Languages:</h3>
-  <img src="https://img.shields.io/badge/HTML5-1da1f2.svg?&style=plastic&color=blue&logo=html5" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1da1f2.svg?&style=plastic&color=blue&logo=css3" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/GraphQL-1da1f2.svg?&style=plastic&color=blue&logo=graphql" alt="GraphQL Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-1da1f2.svg?&style=plastic&color=blue&logo=javascript" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-1da1f2.svg?&style=plastic&color=blue&logo=typescript" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=white&color=1182c3&logoColor=f06529&label=%20&style=plastic" alt="HTML% Badge"/>
+  <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=white&color=1182c3&logoColor=264de4&label=%20&style=plastic" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/static/v1?message=GraphQL&logo=graphql&labelColor=white&color=1182c3&logoColor=e535ab&label=%20&style=plastic" alt="GraphQL Badge"/>
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=white&color=1182c3&logoColor=yellow&label=%20&style=plastic" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=white&color=1182c3&logoColor=007acc&label=%20&style=plastic" alt="TypeScript Badge"/>
   
   <h3>Frameworks:</h3>
-  <img src="https://img.shields.io/badge/Bootstrap-1da1f2.svg?&style=plastic&color=blue&logo=bootstrap" alt="Bootstrap Badge"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1da1f2.svg?&style=plastic&color=blue&logo=tailwindcss" alt="Tailwind CSS Badge"/>
-  <img src="https://img.shields.io/badge/React.js-1da1f2.svg?&style=plastic&color=blue&logo=react" alt="React.js Badge"/>
-  <img src="https://img.shields.io/badge/Next.js-1da1f2.svg?&style=plastic&color=blue&logo=nextdotjs" alt="Next.js Badge"/>
-  <img src="https://img.shields.io/badge/ReactNative-1da1f2.svg?&style=plastic&color=blue&logo=reactnative" alt="React Native Badge"/>
-  <img src="https://img.shields.io/badge/Electron.js-1da1f2.svg?&style=plastic&color=blue&logo=electron" alt="Electron.js Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=white&color=1182c3&logoColor=563d7c&label=%20&style=plastic" alt="Bootstrap Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Tailwind%20CSS&logo=tailwindcss&labelColor=white&color=1182c3&logoColor=2596be&label=%20&style=plastic" alt="Tailwind CSS Badge"/>
+  <img src="https://img.shields.io/static/v1?message=React.js&logo=react&labelColor=white&color=1182c3&logoColor=61dafb&label=%20&style=plastic" alt="React.js Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Next.js&logo=nextdotjs&labelColor=white&color=1182c3&logoColor=black&label=%20&style=plastic" alt="Next.js Badge"/>
+<!--   <img src="https://img.shields.io/static/v1?message=React%20Native&logo=reactnative&labelColor=white&color=1182c3&logoColor=61dbfb&label=%20&style=plastic" alt="React Native Badge"/> -->
+  <img src="https://img.shields.io/static/v1?message=Electron.js&logo=electron&labelColor=white&color=1182c3&logoColor=47848f&label=%20&style=plastic" alt="Electron.js  Badge"/>
   
   <h3>CMS:</h3>
-  <img src="https://img.shields.io/badge/WordPress-1da1f2.svg?&style=plastic&color=blue&logo=wordpress" alt="WordPress Badge"/>
-  <img src="https://img.shields.io/badge/Shopify-1da1f2.svg?&style=plastic&color=blue&logo=shopify" alt="Shopify Badge"/>
-  <img src="https://img.shields.io/badge/BigCommerce-1da1f2.svg?&style=plastic&color=blue&logo=bigcommerce" alt="BigCommerce Badge"/>
+  <img src="https://img.shields.io/static/v1?message=WordPress&logo=wordpress&labelColor=white&color=1182c3&logoColor=21759b&label=%20&style=plastic" alt="WordPress  Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Shopify&logo=shopify&labelColor=white&color=1182c3&logoColor=7AB55C&label=%20&style=plastic" alt="Shopify  Badge"/>
+  <img src="https://img.shields.io/static/v1?message=BigCommerce&logo=bigcommerce&labelColor=white&color=1182c3&logoColor=121118&label=%20&style=plastic" alt="BigCommerce Badge"/>
   
   <h3>Client-Side Testing:</h3>
-  <img src="https://img.shields.io/badge/Testing_Library-1da1f2.svg?&style=plastic&color=blue&logo=testinglibrary" alt="Testing-Library Badge"/>
-  <img src="https://img.shields.io/badge/Jest-1da1f2.svg?&style=plastic&color=blue&logo=jest" alt="Jest.js Badge"/>
-  <img src="https://img.shields.io/badge/Cypress-1da1f2.svg?&style=plastic&color=blue&logo=cypress" alt="Cypress.js Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Testing%20Library&logo=testinglibrary&labelColor=white&color=1182c3&logoColor=E33332&label=%20&style=plastic" alt="Testing-Library Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Jest.js&logo=jest&labelColor=white&color=1182c3&logoColor=C21325&label=%20&style=plastic" alt="Jest.js Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Cypress.js&logo=cypress&labelColor=white&color=1182c3&logoColor=17202C&label=%20&style=plastic" alt="Cypress.js Badge"/>
   
   <h3>Other Tools:</h3>
-  <img src="https://img.shields.io/badge/Git-1da1f2.svg?&style=plastic&color=blue&logo=git" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/SASS-1da1f2.svg?&style=plastic&color=blue&logo=sass" alt="SASS Badge"/>
-  <img src="https://img.shields.io/badge/Redux-1da1f2.svg?&style=plastic&color=blue&logo=redux" alt="Redux Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Git&logo=git&labelColor=white&color=1182c3&logoColor=F05032&label=%20&style=plastic" alt="Git Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Sass&logo=sass&labelColor=white&color=1182c3&logoColor=CC6699&label=%20&style=plastic" alt="Sass Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Redux&logo=redux&labelColor=white&color=1182c3&logoColor=764ABC&label=%20&style=plastic" alt="Redux Badge"/>
 </div>
 
 ---
