@@ -30,9 +30,10 @@
   <p>I’m also looking to collaborate on Challenging Open Source Projects!</p>
   
   <h2>Contact Me:</h2>
-  <p>Email: mailmikeattah@gmail.com</p>
+  <p>Email: mailenemona@gmail.com</p>
   <p>Mobile: +2347013194373</p>
-  <p>Skype: live:attahmona</p>
+  <p>Socials: mikeattah(h)</p>
+  <p>Skype: attahmona</p>
 </div>
 
 <div>
