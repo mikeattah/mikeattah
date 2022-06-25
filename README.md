@@ -58,7 +58,7 @@
   <h3>CMS:</h3>
   <img src="https://img.shields.io/static/v1?message=WordPress&logo=wordpress&labelColor=white&color=1182c3&logoColor=21759b&label=%20&style=plastic" alt="WordPress  Badge"/>
   <img src="https://img.shields.io/static/v1?message=Shopify&logo=shopify&labelColor=white&color=1182c3&logoColor=7AB55C&label=%20&style=plastic" alt="Shopify  Badge"/>
-  <img src="https://img.shields.io/static/v1?message=BigCommerce&logo=bigcommerce&labelColor=white&color=1182c3&logoColor=121118&label=%20&style=plastic" alt="BigCommerce Badge"/>
+<!--   <img src="https://img.shields.io/static/v1?message=BigCommerce&logo=bigcommerce&labelColor=white&color=1182c3&logoColor=121118&label=%20&style=plastic" alt="BigCommerce Badge"/> -->
   
   <h3>Client-Side Testing:</h3>
   <img src="https://img.shields.io/static/v1?message=Testing%20Library&logo=testinglibrary&labelColor=white&color=1182c3&logoColor=E33332&label=%20&style=plastic" alt="Testing-Library Badge"/>
