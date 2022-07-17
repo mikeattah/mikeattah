@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/static/v1?message=React.js&logo=react&labelColor=white&color=1182c3&logoColor=61dafb&label=%20&style=plastic" alt="React.js Badge"/>
   <img src="https://img.shields.io/static/v1?message=Next.js&logo=nextdotjs&labelColor=white&color=1182c3&logoColor=black&label=%20&style=plastic" alt="Next.js Badge"/>
 <!--   <img src="https://img.shields.io/static/v1?message=React%20Native&logo=reactnative&labelColor=white&color=1182c3&logoColor=61dbfb&label=%20&style=plastic" alt="React Native Badge"/> -->
-  <img src="https://img.shields.io/static/v1?message=Electron.js&logo=electron&labelColor=white&color=1182c3&logoColor=47848f&label=%20&style=plastic" alt="Electron.js  Badge"/>
+  <!-- <img src="https://img.shields.io/static/v1?message=Electron.js&logo=electron&labelColor=white&color=1182c3&logoColor=47848f&label=%20&style=plastic" alt="Electron.js  Badge"/> -->
   
   <h3>CMS:</h3>
   <img src="https://img.shields.io/static/v1?message=WordPress&logo=wordpress&labelColor=white&color=1182c3&logoColor=21759b&label=%20&style=plastic" alt="WordPress  Badge"/>
