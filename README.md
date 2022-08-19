@@ -25,7 +25,7 @@
 <h1 align="center">Welcome to My Code Hub!</h1>
 
 <div>
-  <p>Hi, I’m a Front-End Developer, who is actively learning and building web, mobile and desktop applications on a daily basis in order to sharpen skills and broaden my knowledge.</p>
+  <p>Hi, I’m a Front-End Developer, who is actively learning and building projects on a daily basis in order to sharpen skills and broaden my knowledge.</p>
   <p>I’m currently available for fulltime office/remote front-end developer jobs any where in the world.</p>
   <p>I’m also looking to collaborate on Challenging Open Source Projects!</p>
   
