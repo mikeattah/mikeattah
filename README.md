@@ -25,7 +25,7 @@
 <h1 align="center">Welcome to My Code Hub!</h1>
 
 <div>
-  <p>Hi, I’m a Front-End Developer, who is actively learning and building projects on a daily basis in order to sharpen skills and broaden my knowledge.</p>
+  <p>Hi, I’m a Full-Stack Developer, who is actively learning and building projects on a daily basis in order to sharpen skills and broaden my knowledge.</p>
   <p>I’m currently available for fulltime office/remote front-end developer jobs any where in the world.</p>
   <p>I’m also looking to collaborate on Challenging Open Source Projects!</p>
   
@@ -52,6 +52,8 @@
   <img src="https://img.shields.io/static/v1?message=Tailwind%20CSS&logo=tailwindcss&labelColor=white&color=1182c3&logoColor=2596be&label=%20&style=plastic" alt="Tailwind CSS Badge"/>
   <img src="https://img.shields.io/static/v1?message=React.js&logo=react&labelColor=white&color=1182c3&logoColor=61dafb&label=%20&style=plastic" alt="React.js Badge"/>
   <img src="https://img.shields.io/static/v1?message=Next.js&logo=nextdotjs&labelColor=white&color=1182c3&logoColor=black&label=%20&style=plastic" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Node.js&logo=nodedotjs&labelColor=white&color=1182c3&logoColor=68A063&label=%20&style=plastic" alt="Express.js  Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&labelColor=white&color=1182c3&logoColor=303030&label=%20&style=plastic" alt="Express.js  Badge"/>
 <!--   <img src="https://img.shields.io/static/v1?message=React%20Native&logo=reactnative&labelColor=white&color=1182c3&logoColor=61dbfb&label=%20&style=plastic" alt="React Native Badge"/> -->
   <!-- <img src="https://img.shields.io/static/v1?message=Electron.js&logo=electron&labelColor=white&color=1182c3&logoColor=47848f&label=%20&style=plastic" alt="Electron.js  Badge"/> -->
   
@@ -65,10 +67,19 @@
   <img src="https://img.shields.io/static/v1?message=Jest.js&logo=jest&labelColor=white&color=1182c3&logoColor=C21325&label=%20&style=plastic" alt="Jest.js Badge"/>
   <img src="https://img.shields.io/static/v1?message=Cypress.js&logo=cypress&labelColor=white&color=1182c3&logoColor=17202C&label=%20&style=plastic" alt="Cypress.js Badge"/>
   
+  <h3>Server-Side Testing:</h3>
+  <img src="https://img.shields.io/static/v1?message=Chai.js&logo=chai&labelColor=white&color=1182c3&logoColor=A30701&label=%20&style=plastic" alt="Chai.js Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Mocha&logo=mocha&labelColor=white&color=1182c3&logoColor=8D6748&label=%20&style=plastic" alt="Mocha Badge"/>
+  
+   <h3>Database:</h3>
+  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&labelColor=white&color=1182c3&logoColor=4DB33D&label=%20&style=plastic" alt="MongoDB Badge"/>
+  
+  
   <h3>Other Tools:</h3>
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&labelColor=white&color=1182c3&logoColor=F05032&label=%20&style=plastic" alt="Git Badge"/>
   <img src="https://img.shields.io/static/v1?message=Sass&logo=sass&labelColor=white&color=1182c3&logoColor=CC6699&label=%20&style=plastic" alt="Sass Badge"/>
   <img src="https://img.shields.io/static/v1?message=Redux&logo=redux&labelColor=white&color=1182c3&logoColor=764ABC&label=%20&style=plastic" alt="Redux Badge"/>
+  <img src="https://img.shields.io/static/v1?message=D3.js&logo=d3dotjs&labelColor=white&color=1182c3&logoColor=F05032&label=%20&style=plastic" alt="D3.js Badge"/>
 </div>
 
 ---
