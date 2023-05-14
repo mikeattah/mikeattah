@@ -43,9 +43,9 @@
   <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=white&color=1182c3&logoColor=f06529&label=%20&style=plastic" alt="HTML% Badge"/>
   <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=white&color=1182c3&logoColor=264de4&label=%20&style=plastic" alt="CSS3 Badge"/>
   <img src="https://img.shields.io/static/v1?message=GraphQL&logo=graphql&labelColor=white&color=1182c3&logoColor=e535ab&label=%20&style=plastic" alt="GraphQL Badge"/>
+  <img src="https://img.shields.io/static/v1?message=SQL&logo=sql&labelColor=white&color=1182c3&logoColor=e535ab&label=%20&style=plastic" alt="SQL Badge"/>
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=white&color=1182c3&logoColor=yellow&label=%20&style=plastic" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=white&color=1182c3&logoColor=007acc&label=%20&style=plastic" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=white&color=1182c3&logoColor=777BB4&label=%20&style=plastic" alt="PHP Badge"/>
   
   <h3>Frameworks:</h3>
   <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=white&color=1182c3&logoColor=563d7c&label=%20&style=plastic" alt="Bootstrap Badge"/>
