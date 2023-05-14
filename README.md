@@ -25,8 +25,8 @@
 <h1 align="center">Welcome to My Code Hub!</h1>
 
 <div>
-  <p>Hi, I’m a Full-Stack Developer, who is actively learning and building projects on a daily basis in order to sharpen skills and broaden my knowledge.</p>
-  <p>I’m currently available for fulltime office/remote front-end developer jobs any where in the world.</p>
+  <p>Hi, I’m a Full-Stack Developer, who is actively learning and building projects daily in order to improve my skills and broaden my knowledge.</p>
+  <p>I’m currently available for fulltime office/remote front-end/full-stack developer jobs any where in the world.</p>
   <p>I’m also looking to collaborate on Challenging Open Source Projects!</p>
   
   <h2>Contact Me:</h2>
@@ -43,22 +43,20 @@
   <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=white&color=1182c3&logoColor=f06529&label=%20&style=plastic" alt="HTML% Badge"/>
   <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=white&color=1182c3&logoColor=264de4&label=%20&style=plastic" alt="CSS3 Badge"/>
   <img src="https://img.shields.io/static/v1?message=GraphQL&logo=graphql&labelColor=white&color=1182c3&logoColor=e535ab&label=%20&style=plastic" alt="GraphQL Badge"/>
-  <img src="https://img.shields.io/static/v1?message=SQL&logo=sql&labelColor=white&color=1182c3&logoColor=e535ab&label=%20&style=plastic" alt="SQL Badge"/>
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=white&color=1182c3&logoColor=yellow&label=%20&style=plastic" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=white&color=1182c3&logoColor=007acc&label=%20&style=plastic" alt="TypeScript Badge"/>
   
   <h3>Frameworks:</h3>
-  <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=white&color=1182c3&logoColor=563d7c&label=%20&style=plastic" alt="Bootstrap Badge"/>
   <img src="https://img.shields.io/static/v1?message=Tailwind%20CSS&logo=tailwindcss&labelColor=white&color=1182c3&logoColor=2596be&label=%20&style=plastic" alt="Tailwind CSS Badge"/>
-  <img src="https://img.shields.io/static/v1?message=React.js&logo=react&labelColor=white&color=1182c3&logoColor=61dafb&label=%20&style=plastic" alt="React.js Badge"/>
   <img src="https://img.shields.io/static/v1?message=Next.js&logo=nextdotjs&labelColor=white&color=1182c3&logoColor=black&label=%20&style=plastic" alt="Next.js Badge"/>
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=nodedotjs&labelColor=white&color=1182c3&logoColor=68A063&label=%20&style=plastic" alt="Express.js  Badge"/>
   <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&labelColor=white&color=1182c3&logoColor=303030&label=%20&style=plastic" alt="Express.js  Badge"/>
-<!--   <img src="https://img.shields.io/static/v1?message=React%20Native&logo=reactnative&labelColor=white&color=1182c3&logoColor=61dbfb&label=%20&style=plastic" alt="React Native Badge"/> -->
-  <!-- <img src="https://img.shields.io/static/v1?message=Electron.js&logo=electron&labelColor=white&color=1182c3&logoColor=47848f&label=%20&style=plastic" alt="Electron.js  Badge"/> -->
+  <img src="https://img.shields.io/static/v1?message=React%20Native&logo=react&labelColor=white&color=1182c3&logoColor=61dbfb&label=%20&style=plastic" alt="React Native Badge"/>
+  <img src="https://img.shields.io/static/v1?message=D3.js&logo=d3dotjs&labelColor=white&color=1182c3&logoColor=F05032&label=%20&style=plastic" alt="D3.js Badge"/>
+  <!-- <img src="https://img.shields.io/static/v1?message=Tauri&logo=tauri&labelColor=white&color=1182c3&logoColor=47848f&label=%20&style=plastic" alt="Tauri Badge"/> -->
   
-  <h3>CMS:</h3>
-  <img src="https://img.shields.io/static/v1?message=WordPress&logo=wordpress&labelColor=white&color=1182c3&logoColor=21759b&label=%20&style=plastic" alt="WordPress  Badge"/>
+<!--   <h3>CMS:</h3> -->
+<!--   <img src="https://img.shields.io/static/v1?message=WordPress&logo=wordpress&labelColor=white&color=1182c3&logoColor=21759b&label=%20&style=plastic" alt="WordPress  Badge"/> -->
   <!-- <img src="https://img.shields.io/static/v1?message=Shopify&logo=shopify&labelColor=white&color=1182c3&logoColor=7AB55C&label=%20&style=plastic" alt="Shopify  Badge"/>
 <img src="https://img.shields.io/static/v1?message=BigCommerce&logo=bigcommerce&labelColor=white&color=1182c3&logoColor=121118&label=%20&style=plastic" alt="BigCommerce Badge"/> -->
   
@@ -71,15 +69,17 @@
   <img src="https://img.shields.io/static/v1?message=Chai.js&logo=chai&labelColor=white&color=1182c3&logoColor=A30701&label=%20&style=plastic" alt="Chai.js Badge"/>
   <img src="https://img.shields.io/static/v1?message=Mocha&logo=mocha&labelColor=white&color=1182c3&logoColor=8D6748&label=%20&style=plastic" alt="Mocha Badge"/>
   
-   <h3>Database:</h3>
+   <h3>Databases:</h3>
   <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&labelColor=white&color=1182c3&logoColor=4DB33D&label=%20&style=plastic" alt="MongoDB Badge"/>
+   <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&labelColor=white&color=1182c3&logoColor=4DB33D&label=%20&style=plastic" alt="PostgreSQL Badge"/>
   
   
   <h3>Other Tools:</h3>
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&labelColor=white&color=1182c3&logoColor=F05032&label=%20&style=plastic" alt="Git Badge"/>
   <img src="https://img.shields.io/static/v1?message=Sass&logo=sass&labelColor=white&color=1182c3&logoColor=CC6699&label=%20&style=plastic" alt="Sass Badge"/>
   <img src="https://img.shields.io/static/v1?message=Redux&logo=redux&labelColor=white&color=1182c3&logoColor=764ABC&label=%20&style=plastic" alt="Redux Badge"/>
-  <img src="https://img.shields.io/static/v1?message=D3.js&logo=d3dotjs&labelColor=white&color=1182c3&logoColor=F05032&label=%20&style=plastic" alt="D3.js Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Prisma&logo=prisma&labelColor=white&color=1182c3&logoColor=764ABC&label=%20&style=plastic" alt="Redux Badge"/>
+  <img src="https://img.shields.io/static/v1?message=Pug&logo=pug&labelColor=white&color=1182c3&logoColor=764ABC&label=%20&style=plastic" alt="Redux Badge"/>
 </div>
 
 ---
